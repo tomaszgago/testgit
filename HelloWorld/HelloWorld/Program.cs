@@ -10,6 +10,9 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("a");
+
+            Console.WriteLine("I come from develop");
             Console.WriteLine("I come from develop");
         }
     }
